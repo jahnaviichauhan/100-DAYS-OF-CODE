@@ -5,3 +5,7 @@
 <li>You can submit a pull-request after you have completed the given questions.</li>
 <li>The questions will be easy in the beginning and they will gradually become harder and harder day by day.</li>
 <li>The main programming language will be C and our focus will be on data structures and algorithm in C.</li>
+
+# UPDATE
+ - :white_check_mark:DAY 1
+ - :white_check_mark:DAY 2
