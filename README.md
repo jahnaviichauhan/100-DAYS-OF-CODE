@@ -10,3 +10,5 @@
  - :white_check_mark:DAY 1
  - :white_check_mark:DAY 2
  - :white_check_mark:DAY 3
+ - :white_check_mark:DAY 4
+ - :white_check_mark:DAY 5
